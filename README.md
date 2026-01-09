@@ -1,5 +1,5 @@
 # ascii-wiggle-java
-This is a java program which animates wiggle effect in your terminal.
+This is a Java program which animates wiggle effect in your terminal.
 
 ## Usage
  1. Compile it by running `javac path/Wiggle.java`.
